@@ -1,0 +1,8 @@
+C:\Users\huawei\OneDrive\Рабочий стол\namordnic\program\ПрР1_Арефьева\ПрР1_Арефьева\bin\Debug\ПрР1_Арефьева.exe.config
+C:\Users\huawei\OneDrive\Рабочий стол\namordnic\program\ПрР1_Арефьева\ПрР1_Арефьева\bin\Debug\ПрР1_Арефьева.exe
+C:\Users\huawei\OneDrive\Рабочий стол\namordnic\program\ПрР1_Арефьева\ПрР1_Арефьева\bin\Debug\ПрР1_Арефьева.pdb
+C:\Users\huawei\OneDrive\Рабочий стол\namordnic\program\ПрР1_Арефьева\ПрР1_Арефьева\obj\Debug\ПрР1_Арефьева.csproj.AssemblyReference.cache
+C:\Users\huawei\OneDrive\Рабочий стол\namordnic\program\ПрР1_Арефьева\ПрР1_Арефьева\obj\Debug\ПрР1_Арефьева.csproj.SuggestedBindingRedirects.cache
+C:\Users\huawei\OneDrive\Рабочий стол\namordnic\program\ПрР1_Арефьева\ПрР1_Арефьева\obj\Debug\ПрР1_Арефьева.csproj.CoreCompileInputs.cache
+C:\Users\huawei\OneDrive\Рабочий стол\namordnic\program\ПрР1_Арефьева\ПрР1_Арефьева\obj\Debug\ПрР1_Арефьева.exe
+C:\Users\huawei\OneDrive\Рабочий стол\namordnic\program\ПрР1_Арефьева\ПрР1_Арефьева\obj\Debug\ПрР1_Арефьева.pdb
